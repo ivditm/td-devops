@@ -27,7 +27,6 @@
 3. **Configurer la visibilité** :  
    - Public : toute la communauté peut pull l’image  
    - Privé : accessible seulement à des collaborateurs autorisé
-   - s
 
 ---
 
