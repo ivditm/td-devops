@@ -83,7 +83,7 @@ Prompt :
 
 ### 4️⃣ Analyse du Dockerfile
 
-Répondez aux questions :
+Répondez aux questions d'un bon élève NAIL :
 
 * L’image de base est-elle figée ?
 * L’application tourne-t-elle en root ?
@@ -130,6 +130,8 @@ Ajoutez :
 ## 🧠 Conclusion TD
 
 A vous de me le dire ? 
- (Lien du draft.io)[https://draft.io/b84z2jgjyxk27uws284rcqqng4cbddc4qr4gyxrpvryy]
+
+ [Lien du draftIO](https://draft.io/b84z2jgjyxk27uws284rcqqng4cbddc4qr4gyxrpvryy)
+ 
 ---
 
