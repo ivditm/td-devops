@@ -436,6 +436,7 @@ Créer un dashboard avec 6 panels (minimum) :
 
 ## Mon point de vue de prof : 
 
+C'est un outil de collect de log/metrics qui a les mêmes standards qu'OpenTelemetry
 Lisez bien la documentation de Grafana Alloy :
 
 [https://grafana.com/docs/grafana-cloud/send-data/alloy/introduction/](https://grafana.com/docs/grafana-cloud/send-data/alloy/introduction/)
